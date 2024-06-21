@@ -1,0 +1,7 @@
+Respuesta correcta es: C) https://www.google.es/
+
+*EXPLICACION*
+
+El protocolo HTTPS utiliza certificados SSL/TLS para crear una conexión segura entre el cliente y el servidor. Cuando un navegador se conecta a un servidor utilizando HTTPS, se establece una capa de encriptación que protege los datos transmitidos. Esto asegura que la información intercambiada no pueda ser interceptada o manipulada por terceros durante su tránsito.
+
+El uso de HTTPS es esencial para proteger la privacidad y la integridad de los datos de los usuarios, especialmente en sitios web que manejan información sensible como contraseñas, datos personales y detalles financieros. Las otras opciones mencionadas no proporcionan este nivel de seguridad, ya que utilizan protocolos que no encriptan los datos por defecto o son inválidos.

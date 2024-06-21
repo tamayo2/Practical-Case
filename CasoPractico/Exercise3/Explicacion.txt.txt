@@ -1,0 +1,24 @@
+# Explicación del archivo hosts
+
+# El archivo 'host' se utiliza para asignar direcciones IP a nombres de host (dominios) de manera local.
+
+# Cada entrada debe estar en una linea individual, con la dirección IP seguida del nombre de host.
+
+# La dirección IP y el nombre de host deben estar separados por al menos un espacio o tabulacion.
+
+# Los comentarios se pueden insertar usando el símbolo '#' al principio de la linea.
+
+# Ejemplo de entradas en el archivo hosts:
+# 127.0.0.1  localhost   # Esta entrada asigna la dirección IP 127.0.0.1 al nombre de host 'localhost'.
+# 192.168.1.1 myrouter  # Esta entrada asigna la dirección IP 192.168.1.1 al nombre de host 'myrouter'.
+
+# La edición de este archivo permite redireccionar dominios a direcciones IP específicas,
+# lo cual es útil para pruebas de desarrollo y resolución de problemas de red.
+
+# Precaución: Modificar incorrectamente este archivo puede afectar la resolución de nombres de dominio en el sistema.
+# Siempre haga una copia de seguridad del archivo original antes de realizar cambios.
+
+# A continuación, puede agregar sus propias entradas:
+
+# Direcciones IP personalizadas
+# 123.456.78.9  midominio.com     # Redirecciona midominio.com a la dirección IP 123.456.78.9
